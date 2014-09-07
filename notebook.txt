@@ -1,0 +1,13 @@
+Date	Who	Start	Stop	Interruptions	Question	TimeOnTask	Comments
+09/05	KM      16:28	16:59	0		0		31		Installing Racket
+09/05	KM      17:30	17:40	0		Q1		10		trying various expression with operators and operands
+09/05	KM      17:40	17:45	0		Q2		5		error received for not leaving space after operator
+09/05	KM      18:00	18:10	0		Q3		10		
+09/05	KM      18:10	18:20	0		Q4		10		
+09/05	KM      18:20	18:30	0		Q5		10		
+09/05	KM      18:30	18:40	0		Q6		10		
+09/05	KM      18:40	18:50	0		Q7		10		
+09/05	KM      18:50	19:00	0		Q8		10		
+09/05	KM      19:30	20:00	0		Q9		30		Trying to understand the modula function
+09/05	KM      20:00	20:30	0		Q10		30		wrote function in interative window
+
