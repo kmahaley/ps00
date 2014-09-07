@@ -11,3 +11,4 @@ Date	Who	Start	Stop	Interruptions	Question	TimeOnTask	Comments
 09/05	KM      19:30	20:00	0		Q9		30		Trying to understand the modula function
 09/05	KM      20:00	20:30	0		Q10		30		wrote function in interative window
 
+
